@@ -1,6 +1,6 @@
  👋 **Hi, I’m Leticia**
 
-* 👀 Estou Interessado  em JavaScript
+* 👀 Estou Interessado  em Java/JavaScript
 * 🌱 I’m currently learning **Javascript/ HTML/ CSS3**
 
 <div align="center">
