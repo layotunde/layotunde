@@ -1,4 +1,4 @@
- 👋 **Hi, I’m Leticia**
+ 👋 **Hi, I’m Layo**
 
 * 👀 Estou Interessado  em Java/JavaScript
 * 🌱 I’m currently learning **Javascript/ HTML/ CSS3**
