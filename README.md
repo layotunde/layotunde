@@ -4,9 +4,9 @@
 * 🌱 I’m currently learning **Javascript/ HTML/ CSS3**
 
 <div align="center">
-  <a href="https://github.com/marialeticias">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=marialeticias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticias&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/layotunde">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=layotunde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layotunde&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
  <div style="display: inline_block"><br>
